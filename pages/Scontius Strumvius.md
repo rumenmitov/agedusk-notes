@@ -4,10 +4,28 @@ icon:: 󱑷
 - # Character Sheet
 	- ![Character Sheet](../assets/scontius_strumvius.pdf)
 		- ![Avatar](../assets/avatar.jpeg)
-		- ![Strumvius Insignia](../assets/strumvius_insignia.jpeg)
+- # Backstory
+	- From a young age I knew that I was adopted, but that did not stop my parents from loving me as
+	  though I was their own.
+	- I have only the slightest of ideas about my biological parents. They lived somewhere in the south,
+	  but something had threatened their existence, for I was delivered here, to the town of Haerlun, by
+	  a mysterious adventurer. All he had said, apparently, was that my name was Scontius Strumvius and that I was in need of a new family.
+	- For most of my life, I did not dwell on my biological heritage for I found a sense of belonging in
+	  the welcoming community around me.
+	  I enrolled in the local wizarding school, for I had always been curious about the inner workings of
+	  the universe.
+	- Then the dreams came. It was the beginning of my last school year when I began having visions
+	  of my biological parents, of the town they lived in. None, of the dreams provided much
+	  information, but they conveyed such vehement feelings of fear and panic. These visions began
+	  occurring more often than not. It got to the point that I could not rest properly. The day after my
+	  graduation, I informed my parents of my plans to seek out the meanings of these visions, for I
+	  had a feeling that if I uncovered the truth, the visions would leave me alone.
+	- On our parting, my parents gifted me with an old unopened letter given to them from the
+	  adventurer who delivered me to Haerlun. The letter came with a signet ring, which bore the same emblem as the one that the letter was stamped with.
+	- ![Strumvius Insignia](../assets/strumvius_insignia.jpeg)
 - # Spellbook
 	- ## Cantrips
-		- **Fire Bolt** (from High Elf race)
+		- **Fire Bolt**
 		  collapsed:: true
 			- level:: cantrip
 			  casting_time:: 1 action
@@ -44,14 +62,13 @@ icon:: 󱑷
 			  Intelligence (Investigation) check against your spell save DC. If a 
 			  creature discerns the illusion for what it is, the illusion becomes 
 			  faint to the creature.
-		- **Friends**
+		- **Mage Hand**
 		  collapsed:: true
 			- level:: cantrip
 			  casting_time:: 1 action
-			  range:: self
-			  components:: [[S]], [[M]]
+			  range:: 30 feet
+			  components:: [[V]], [[S]]
 			  duration:: 1 minute
-			  concentration:: true
 			- For the duration, you have advantage on all Charisma checks directed at 
 			  one creature of your choice that isn't hostile toward you. When the 
 			  spell ends, the creature realizes that you used magic to influence its 
@@ -59,19 +76,15 @@ icon:: 󱑷
 			  attack you. Another creature might seek retribution in other ways (at 
 			  the DM's discretion), depending on the nature of your interaction with 
 			  it.
-		- **Mending**
-		  collapsed:: true
-			- level:: cantrip
-			  casting_time:: 1 minute
-			  range:: touch
-			  components:: [[V]], [[S]], [[M]]
-			  duration:: instantaneous
-			- This spell repairs a single break or tear in an object you touch, 
-			  such as a broken chain link, two halves of a broken key, a torn cloak, 
-			  or a leaking wineskin. As long as the break or tear is no larger than 1 
-			  foot in any dimension, you mend it, leaving no trace of the former 
-			  damage.
-			- This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
+			- A spectral, floating hand appears at a point you choose within range.
+			  The hand lasts for the duration or until you dismiss it as an action. 
+			  The hand vanishes if it is ever more than 30 feet away from you or if 
+			  you cast this spell again.
+			- You can use your action to control the hand. You can use the hand to 
+			  manipulate an object, open an unlocked door or container, stow or 
+			  retrieve an item from an open container, or pour the contents out of a 
+			  vial. You can move the hand up to 30 feet each time you use it.
+			- The hand can’t attack, activate magical items, or carry more than 10 pounds.
 	- ## Level 1
 		- slots_available:: 4
 		- **Magic Missile**
