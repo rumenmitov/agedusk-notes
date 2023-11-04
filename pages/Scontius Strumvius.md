@@ -23,10 +23,13 @@ icon:: 󱑷
 	- On our parting, my parents gifted me with an old unopened letter given to them from the
 	  adventurer who delivered me to Haerlun. The letter came with a signet ring, which bore the same emblem as the one that the letter was stamped with.
 	- ![Strumvius Insignia](../assets/strumvius_insignia.jpeg)
+- # Feats
+	- Potent (0/2)
+	- Lucky (2/3)
 - # Spellbook
+  collapsed:: true
 	- ## Cantrips
 		- **Fire Bolt**
-		  collapsed:: true
 			- level:: cantrip
 			  casting_time:: 1 action
 			  range:: 120 feet
@@ -69,13 +72,6 @@ icon:: 󱑷
 			  range:: 30 feet
 			  components:: [[V]], [[S]]
 			  duration:: 1 minute
-			- For the duration, you have advantage on all Charisma checks directed at 
-			  one creature of your choice that isn't hostile toward you. When the 
-			  spell ends, the creature realizes that you used magic to influence its 
-			  mood and becomes hostile toward you. A creature prone to violence might 
-			  attack you. Another creature might seek retribution in other ways (at 
-			  the DM's discretion), depending on the nature of your interaction with 
-			  it.
 			- A spectral, floating hand appears at a point you choose within range.
 			  The hand lasts for the duration or until you dismiss it as an action. 
 			  The hand vanishes if it is ever more than 30 feet away from you or if 
@@ -158,7 +154,6 @@ icon:: 󱑷
 			  rate of descent slows to 60 feet per round until the spell ends. If the 
 			  creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 		- **Color Spray**
-		  collapsed:: true
 			- level:: 1
 			  casting_time:: 1 action
 			  range:: self (15-foot cone)

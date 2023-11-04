@@ -6,3 +6,7 @@ icon:: 󰂺
 - Multiple wizard war-lords fighting it out for territory
 - Pact of non-aggression
 	- Broken 1 year ago
+- # Important Landmarks
+	- Overvodna
+		- River
+		- Trade
