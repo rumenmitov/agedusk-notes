@@ -24,7 +24,11 @@ icon:: 󱑷
 	  adventurer who delivered me to Haerlun. The letter came with a signet ring, which bore the same emblem as the one that the letter was stamped with.
 	- ![Strumvius Insignia](../assets/strumvius_insignia.jpeg)
 - # Feats
-	- Potent (0/2)
+	- Arcane Recovery (0/1)
+		- #+BEGIN_EXPORT latex
+		  \text{level of spells recovered} = \frac{\text{wizard level}}{2} \text{ (rounded up)}
+		  #+END_EXPORT
+	- Portent (0/2)
 	- Lucky (2/3)
 - # Spellbook
   collapsed:: true

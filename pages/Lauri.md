@@ -1,0 +1,2 @@
+- Evil Necromancer
+- Captures Haita Hermer (the priestess)
