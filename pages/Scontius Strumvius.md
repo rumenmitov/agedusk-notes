@@ -24,12 +24,15 @@ icon:: 󱑷
 	  adventurer who delivered me to Haerlun. The letter came with a signet ring, which bore the same emblem as the one that the letter was stamped with.
 	- ![Strumvius Insignia](../assets/strumvius_insignia.jpeg)
 - # Feats
-	- Arcane Recovery (0/1)
+	- Arcane Recovery (1/1)
+	  collapsed:: true
 		- #+BEGIN_EXPORT latex
 		  \text{level of spells recovered} = \frac{\text{wizard level}}{2} \text{ (rounded up)}
 		  #+END_EXPORT
-	- Portent (0/2)
-	- Lucky (0/3)
+	- Portent (2/2)
+		- 18
+		- 1
+	- Lucky (3/3)
 - # Spellbook
 	- ## Cantrips
 		- **Fire Bolt**
@@ -124,6 +127,7 @@ icon:: 󱑷
 			  inspect your appearance and must succeed on an Intelligence 
 			  (Investigation) check against your spell save DC.
 		- **Comprehend Languages**
+		  collapsed:: true
 			- level:: 1
 			  casting_time:: 1 action
 			  range:: self
