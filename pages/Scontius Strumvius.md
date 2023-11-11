@@ -29,11 +29,11 @@ icon:: 󱑷
 		  \text{level of spells recovered} = \frac{\text{wizard level}}{2} \text{ (rounded up)}
 		  #+END_EXPORT
 	- Portent (0/2)
-	- Lucky (2/3)
+	- Lucky (0/3)
 - # Spellbook
-  collapsed:: true
 	- ## Cantrips
 		- **Fire Bolt**
+		  collapsed:: true
 			- level:: cantrip
 			  casting_time:: 1 action
 			  range:: 120 feet
@@ -124,7 +124,6 @@ icon:: 󱑷
 			  inspect your appearance and must succeed on an Intelligence 
 			  (Investigation) check against your spell save DC.
 		- **Comprehend Languages**
-		  collapsed:: true
 			- level:: 1
 			  casting_time:: 1 action
 			  range:: self
@@ -158,6 +157,7 @@ icon:: 󱑷
 			  rate of descent slows to 60 feet per round until the spell ends. If the 
 			  creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 		- **Color Spray**
+		  collapsed:: true
 			- level:: 1
 			  casting_time:: 1 action
 			  range:: self (15-foot cone)
